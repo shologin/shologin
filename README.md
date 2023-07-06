@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hi! I'm Frontend Developer from Lviv, Ukraine.</p>
+<p align="left">Hi! I'm passionate Frontend Developer from Lviv, Ukraine.</p>
 
 ###
 
