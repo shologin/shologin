@@ -21,6 +21,9 @@
 
 [Interest Science (React, Tailwind)](https://eclectic-seahorse-ddb6b7.netlify.app/)
 
+
+[MyTimer (HTML, CSS, JavaScript)](https://github.com/shologin/my-timer)
+
 ###
 
 <h2 align="left"></h2>
