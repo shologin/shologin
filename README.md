@@ -6,7 +6,10 @@
 
 ###
 
-<p align="left">Hi! I'm passionate Frontend Developer from Lviv, Ukraine.</p>
+<p align="left"> Hi! I'm passionate Frontend Developer from Lviv, Ukraine.</p>
+<p align="left"> 💡 Enjoy creating and improving applications and websites</p>
+<p align="left"> 🎓 Fascinated with learning new technologies</p>
+<p align="left"> 💼 Seeking for a job that offers growth opportunities</p>
 
 ###
 
@@ -19,13 +22,13 @@
 
 ###
 
-[Interest Science (React, Tailwind)](https://eclectic-seahorse-ddb6b7.netlify.app/)
+* [Interest Science (React, Tailwind)](https://eclectic-seahorse-ddb6b7.netlify.app/)
 
 
-[Memory game (React)](https://sparkly-frangipane-93f29b.netlify.app/)
+* [Memory game (React)](https://sparkly-frangipane-93f29b.netlify.app/)
 
 
-[MyTimer (HTML, CSS, JavaScript)](https://github.com/shologin/my-timer)
+* [MyTimer (HTML, CSS, JavaScript)](https://github.com/shologin/my-timer)
 
 ###
 
