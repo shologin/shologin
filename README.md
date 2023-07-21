@@ -22,7 +22,7 @@
 [Interest Science (React, Tailwind)](https://eclectic-seahorse-ddb6b7.netlify.app/)
 
 
-[Memory game (HTML, CSS, JavaScript)](https://sparkly-frangipane-93f29b.netlify.app/)
+[Memory game (React)](https://sparkly-frangipane-93f29b.netlify.app/)
 
 
 [MyTimer (HTML, CSS, JavaScript)](https://github.com/shologin/my-timer)
