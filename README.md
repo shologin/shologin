@@ -10,7 +10,8 @@
 
 <p align="left"> Hi! I'm passionate Frontend Developer from Lviv, Ukraine.</p>
 <p align="left"> 💡 Enjoy creating and improving applications and websites</p>
-<p align="left"> 🎓 Fascinated with learning new technologies</p>
+<p align="left"> ⚙️ Fascinated with discovering new technologies</p>
+<p align="left"> 🎓 Learning Computer Science</p>
 <p align="left"> 💼 Seeking for a job that offers growth opportunities</p>
 
 ###
