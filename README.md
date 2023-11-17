@@ -1,6 +1,7 @@
 [![Stand with Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://www.standwithukraine.how/)
 
 <h2 align="left">👋 Hi there!</h2>
+<h4>Brew some coffee and make yourself at home on my page ☕ 🍪 </h4>
 
 ###
 
