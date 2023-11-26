@@ -26,13 +26,13 @@
 
 ###
 
-* [Interest Science (React, Tailwind)](https://eclectic-seahorse-ddb6b7.netlify.app/)
+* [Interest Science](https://eclectic-seahorse-ddb6b7.netlify.app/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react" title="React" /> <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="20" alt="tailwindcss logo" title="Tailwind"/>
 
-* [Memory game (React, Redux)](https://sparkly-frangipane-93f29b.netlify.app/)
+* [Memory game](https://sparkly-frangipane-93f29b.netlify.app/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react" title="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="20" alt="redux logo" title="Redux & Redux Toolkit" />
 
-* [Weather App (React, TypeScript, Tailwind)](https://shologin.github.io/weather-app/)
+* [Weather App](https://shologin.github.io/weather-app/)<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react" title="React" /> <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" height="20" alt="TS" title="TypeScript"/> <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="20" alt="tailwindcss logo" title="Tailwind"/>
 
-* [MyTimer (HTML, CSS, JavaScript)](https://github.com/shologin/my-timer)
+* [MyTimer (Browser extension)](https://github.com/shologin/my-timer) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="html5 logo" title="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="css3 logo" title="CSS3" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo" title="JavaScript"  />
 
 ###
 
