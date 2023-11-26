@@ -28,9 +28,9 @@
 
 * [Interest Science (React, Tailwind)](https://eclectic-seahorse-ddb6b7.netlify.app/)
 
-
 * [Memory game (React, Redux)](https://sparkly-frangipane-93f29b.netlify.app/)
 
+* [Weather App (React, TypeScript, Tailwind)](https://shologin.github.io/weather-app/)
 
 * [MyTimer (HTML, CSS, JavaScript)](https://github.com/shologin/my-timer)
 
