@@ -57,6 +57,8 @@
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="30" alt="Python logo" title="Python" />
   <img width="12" />
+  <img src=https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" height="30" alt="SQLite logo" title="SQLite" />
+  <img width="12" />
   <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" height="30" alt="Flask logo" title="Flask" />
 </div>
 
