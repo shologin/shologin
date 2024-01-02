@@ -58,6 +58,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo" title="Redux & Redux Toolkit" />
   <img width="12" />
+  <img src="https://www.cdnlogo.com/logos/n/94/nodejs-icon.svg" height="30" alt="nodejs logo" title="Node js" />
+  <img width="12" />
   <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" height="30" alt="c logo" title="C" />
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="30" alt="Python logo" title="Python" />
@@ -66,6 +68,8 @@
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" height="30" alt="Flask logo" title="Flask" />
 </div>
+
+
 
 ###
 
