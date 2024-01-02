@@ -82,6 +82,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo" title="Tailwind CSS" />
   <img width="12" />
+  <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" height="30" alt="express logo" title="Express" />
+  <img width="12" />
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c49c6dbd-992a-4f14-9cf4-ff40cb5344ed" height="40" alt="gulp logo" title="Gulp" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" title="Figma" />
