@@ -82,7 +82,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo" title="Tailwind CSS" />
   <img width="12" />
-  <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" height="30" alt="express logo" title="Express" />
+  <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" height="35" alt="express logo" title="Express" />
+  <img width="12" />
+  <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" height="35" alt="mongodb logo" title="MongoDB" />
   <img width="12" />
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c49c6dbd-992a-4f14-9cf4-ff40cb5344ed" height="40" alt="gulp logo" title="Gulp" />
   <img width="12" />
